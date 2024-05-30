@@ -26,6 +26,7 @@ Implemented in cdp_backup.py
 | **Ability to Roll Back** | Limited | High | Medium | High | Very High |
 | **Speed of Roll Back** | Fast | Medium | Medium | Slow to Medium | Fast to Slow |
 | **Cost** | High | Medium | Medium | Variable | High |
+
 Each backup model has its trade-offs, and the best choice depends on your specific requirements, such as storage capacity, required recovery time objectives (RTO), and recovery point objectives (RPO).
 
 
